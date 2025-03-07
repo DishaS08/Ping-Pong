@@ -51,7 +51,7 @@ Here’s how you can structure your README with the images and short description
 3. Left Paddle (`bat1.png`) & Right Paddle (`bat2.png`)
    Controlled by hand gestures, these paddles move vertically to hit the ball.
 
-![image](https://github.com/user-attachments/assets/678d0cb0-9086-4b47-a14d-a11d4d321d67)      ![image](https://github.com/user-attachments/assets/048308af-e954-4c6b-8d06-7e371ae6edf4)
+![image](https://github.com/user-attachments/assets/678d0cb0-9086-4b47-a14d-a11d4d321d67)                   ![image](https://github.com/user-attachments/assets/048308af-e954-4c6b-8d06-7e371ae6edf4)
 
 
 
